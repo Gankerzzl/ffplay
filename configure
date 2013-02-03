@@ -1227,6 +1227,7 @@ CONFIG_LIST="
     dct
     dwt
     fast_unaligned
+    ffplay_opengl
     fft
     ftrapv
     gpl
